@@ -13,7 +13,6 @@ __pycache__/
 *.pyc
 
 # IOT source code
-IOT source code/.arduino_sourcecode/
 IOT source code/.streamlit_app/__pycache__/
 IOT source code/.rtdetr_model/
 IOT source code/__pycache__/
