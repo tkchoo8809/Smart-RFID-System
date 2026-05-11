@@ -1,0 +1,20 @@
+# VS Code settings
+.vscode/
+
+# Arduino build and temporary files
+.arduino_sourcecode/
+build/
+*.bin
+*.elf
+*.hex
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IOT source code
+IOT source code/.arduino_sourcecode/
+IOT source code/.streamlit_app/__pycache__/
+IOT source code/.rtdetr_model/
+IOT source code/__pycache__/
+IOT source code/*.pyc

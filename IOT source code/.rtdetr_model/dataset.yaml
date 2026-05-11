@@ -1,0 +1,13 @@
+# 1. Path to your merged dataset folder
+path: ./unified_data  # Update this to your absolute or relative path
+train: images/train
+val: images/val
+
+# 2. Number of classes
+nc: 3
+
+# 3. Class Names (COCO 0-79 + Your 3 New)
+names:
+  0: Humidity Sensor
+  1: Resistor
+  2: Servo
