@@ -1,0 +1,33 @@
+# Core Web Framework
+streamlit>=1.28.0
+
+# Computer Vision & Image Processing
+opencv-python>=4.8.0
+pillow>=10.0.0
+
+# Object Detection Model
+ultralytics>=8.0.0
+supervision>=0.20.0
+
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Processing & Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# HTTP & API Communication
+requests>=2.31.0
+
+# Configuration Management
+pyyaml>=6.0
+
+# Date/Time Utilities
+python-dateutil>=2.8.2
+
+# Data Visualization
+altair>=5.0.0
+
+# Additional Utilities
+pytz>=2023.3

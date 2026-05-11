@@ -1,0 +1,23 @@
+devices:
+  arduino_uno:
+  - ID: arduino_uno_001
+    IP: 172.20.10.6
+    Mode: WRITE
+    Location: Location 1
+    Tag: esp32_cam_001 (172.20.10.4)
+  - ID: arduino_uno_002
+    IP: 172.20.10.5
+    Mode: READ
+    Location: Location2
+    Tag: None
+  - ID: arduino_uno_003
+    IP: 172.20.10.8
+    Mode: READ
+    Location: Location 3
+    Tag: None
+  esp32_cam:
+  - ID: esp32_cam_001
+    IP: 172.20.10.4
+    Mode: 'ON'
+    Location: Location 1
+    Tag: arduino_uno_001 (172.20.10.6)
